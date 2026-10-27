@@ -109,3 +109,4 @@ tac_venv/
 .vscode/settings.json
 .DS_Store
 */tmp/*
+data/camille_pdf/
